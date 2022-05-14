@@ -43,6 +43,14 @@ Develop audio based proctoring system.
 
 ## Results
 
+file:///home/hp/Pictures/Screenshot%20from%202022-05-14%2022-55-33.png![image](https://user-images.githubusercontent.com/93143005/168442287-b78b0742-df73-42b4-8cc0-17a616874ad3.png)
+file:///home/hp/Pictures/Screenshot%20from%202022-05-14%2022-56-07.png![image](https://user-images.githubusercontent.com/93143005/168442321-a266476c-fe51-4a20-b15a-aaa4a9581c38.png)
+
+file:///home/hp/Pictures/Screenshot%20from%202022-05-14%2022-56-17.png![image](https://user-images.githubusercontent.com/93143005/168442327-00e60a17-e95d-426c-b413-6d0b7e4f1429.png)
+
+file:///home/hp/Pictures/Screenshot%20from%202022-05-14%2022-56-26.png![image](https://user-images.githubusercontent.com/93143005/168442332-1b50da5a-ae96-4b8e-995b-5fe43e60c0ab.png)
+
+file:///home/hp/Pictures/Screenshot%20from%202022-05-14%2022-56-34.png![image](https://user-images.githubusercontent.com/93143005/168442336-661fbcca-dc11-4792-b4bb-64a571640125.png)
 
 
 
